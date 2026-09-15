@@ -11,6 +11,7 @@ Its value is not comprehensiveness — it is verification discipline:
 ## Contents
 
 - [`china/routes.md`](china/routes.md) — PRC export routes for personal information: the instruments in force, order of analysis, exemptions, threshold routing, obligations that survive every exemption, validity and re-filing.
+- [`eu/chapter-v.md`](eu/chapter-v.md) — GDPR Chapter V transfers out of the EEA: what counts as a transfer, lawful basis and Art. 28 as separate questions, order of analysis, adequacy, the 2021 standard contractual clauses and the open Art. 3(2) gap, transfer impact assessment, supplementary measures, Art. 49 derogations.
 
 More to follow.
 
