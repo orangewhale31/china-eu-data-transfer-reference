@@ -12,6 +12,7 @@ Its value is not comprehensiveness — it is verification discipline:
 
 - [`china/routes.md`](china/routes.md) — PRC export routes for personal information: the instruments in force, order of analysis, exemptions, threshold routing, obligations that survive every exemption, validity and re-filing.
 - [`eu/chapter-v.md`](eu/chapter-v.md) — GDPR Chapter V transfers out of the EEA: what counts as a transfer, lawful basis and Art. 28 as separate questions, order of analysis, adequacy, the 2021 standard contractual clauses and the open Art. 3(2) gap, transfer impact assessment, supplementary measures, Art. 49 derogations.
+- [`comparison.md`](comparison.md) — a side-by-side of the PRC and EU/EEA transfer regimes, built only from the two files above: what counts as a transfer, adequacy and its absence, instrument choice, filing/approval, impact assessment, consent, surviving obligations, validity and re-filing, and where the analysis stops being data protection.
 
 More to follow.
 
