@@ -46,7 +46,7 @@ verification date, with a note on what would confirm it.
   (ii) personal information protection certification by a professional body per
   CAC rules; (iii) a contract with the overseas recipient on the CAC standard
   contract; (iv) other conditions in laws, administrative regulations or CAC rules.
-  `[Statutory]` Art. 39: separate consent, plus notice of the recipient's name,
+  `[Statutory]` Art. 39: separate consent (单独同意), plus notice of the recipient's name,
   contact details, processing purpose, processing method, categories of personal
   information, and how the individual exercises PIPL rights against the recipient.
   `[Statutory]` Art. 40: CIIOs, and processors handling personal information
@@ -303,7 +303,7 @@ access. Confirmation would be a CAC rule or published Q&A item on the point.
 `[Statutory]` Order No. 16, Art. 10: a data processor providing personal
 information abroad must, in accordance with laws and administrative regulations,
 perform the obligations of notification, obtaining the individual's **separate
-consent**, and conducting a **personal information protection impact assessment**.
+consent**, and conducting a **personal information protection impact assessment** (个人信息保护影响评估).
 
 This sits outside Arts. 3–8. Qualifying for an exemption removes the route, not
 these obligations.

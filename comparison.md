@@ -28,8 +28,9 @@ mismatch is stated in prose rather than forced into a table.
 ## 1. What counts as a transfer — and does remote access count?
 
 **China.** No instrument reviewed in `china/routes.md` defines 数据出境 (data
-export/"providing personal information abroad"), the term PIPL Art. 38, DSL
-Art. 31 and CSL Art. 39 all use without defining it (china §1, §4). The file's
+export/"providing personal information abroad"); PIPL Art. 38, DSL Art. 31
+and CSL Art. 39 each impose cross-border-provision obligations without using
+or defining that term themselves (china §1, §4). The file's
 own `[Unsettled]` note is explicit: "Whether remote access from outside China
 to personal information stored in China constitutes 数据出境 for these
 purposes. None of the instruments retrieved defines 数据出境, and no
@@ -113,7 +114,7 @@ exemption applies (china §2, §3), Order No. 16 Arts. 7–8 fix the route:
 | Non-CIIO exporting important data | Security assessment | Art. 7(2) `[Statutory]` |
 | Non-CIIO, ≥1,000,000 individuals (non-sensitive) or ≥10,000 (sensitive), cumulative since 1 Jan | Security assessment | Art. 7(2) `[Statutory]` |
 | Non-CIIO, 100,000–999,999 individuals (non-sensitive) or <10,000 (sensitive) | Standard contract **or** certification — chooser's choice | Art. 8 `[Statutory]`; choice between the two is `[Interpretive]`, china §4 |
-| Non-CIIO, <100,000 individuals, no sensitive data, and one of the Art. 5 conditions met | Exempt from all three routes (obligations still apply — see §7 below) | Art. 5(4) `[Statutory]` |
+| Non-CIIO, cumulatively <100,000 individuals since 1 Jan (sensitive personal information excluded from that count), and one of the Art. 5 conditions met | Exempt from all three routes (obligations still apply — see §7 below) | Art. 5(4) `[Statutory]`; that this is an exclusion from the count rather than a bar on sensitive data being present is `[Interpretive]` |
 
 (china §4). The only point of free choice in this table is standard contract
 vs. certification within the Art. 8 band, described as "alternatives within
@@ -202,9 +203,10 @@ information, with the processing recorded) and its content is fixed by
 PIPL Art. 56: lawfulness/justification/necessity of purpose and method, the
 impact on individuals' rights and the security risk, and whether protective
 measures are lawful, effective and commensurate with the risk (china §5,
-`[Statutory]`). It must also be filed as an attachment for the standard
-contract route (china §6, Order No. 13 Art. 5, before export) and completed
-before applying for certification (china §6, Order No. 20 Art. 6). The file
+`[Statutory]`). It must also be filed as an attachment to the standard contract filing
+(china §6, Order No. 13 Art. 7), carried out before export under that route
+(china §6, Order No. 13 Art. 5), and completed before applying for
+certification (china §6, Order No. 20 Art. 6). The file
 flags the practical failure mode directly: treating a volume-based exemption
 as a compliance exit, when notice, consent and the PIPIA are still owed
 (china §5, `[Interpretive]`).
@@ -217,8 +219,9 @@ impact assessment (eu §6, `[Interpretive]` for the naming and DPIA
 distinction; `[Statutory]` for the underlying Clause 14 duties). Unlike the
 PRC PIPIA, the TIA is not a universal cross-border obligation — it is tied to
 the Art. 46 safeguard route specifically. An adequacy transfer under Art. 45
-does not need one, because the "essentially equivalent protection" finding
-has already been made by the Commission for that country (eu §3, §4, §6).
+does not need one: Art. 46(1) is reached only "in the absence of a decision
+pursuant to Article 45(3)" (eu §3), so a transfer covered by adequacy never
+reaches the safeguard route the TIA obligation is tied to (eu §3, §4, §6).
 Where it does apply (SCCs), Clause 14(b) requires the exporter and importer
 to take due account of the specific circumstances of the transfer, the third
 country's laws and practices, and any supplementary safeguards, and Clause
@@ -388,11 +391,12 @@ instrument:
   safe harbour).
 
 **EU/EEA — member-state employment law is scoped out, not analysed.**
-`eu/chapter-v.md` §1 states its own boundary directly, in an unlabelled scope
-note rather than a labelled statement of instrument text: the file "covers
-Chapter V of Regulation (EU) 2016/679... It does not cover Regulation (EU)
-2018/1725..., the Law Enforcement Directive, or any national implementing
-law" (eu §1). Member-state employment law
+`eu/chapter-v.md`'s front matter states its own boundary directly, in an
+unlabelled scope note preceding §1 rather than a labelled statement of
+instrument text: the file "covers Chapter V of Regulation (EU) 2016/679... It
+does not cover Regulation (EU) 2018/1725..., the Law Enforcement Directive, or
+any national implementing law" (eu, scope note before §1). Member-state
+employment law
 — the layer where, in a GDPR system, national labour-law derogations and
 implementing provisions typically sit — falls inside that excluded category.
 `eu/chapter-v.md` contains no analysis of it, because the file was scoped not
